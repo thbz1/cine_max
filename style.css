@@ -416,6 +416,20 @@ footer {
     font-size: 16px;
 }
 
+@media screen and (max-width: 464px) {
+    h2 {
+        font-size: 25px;
+    }
+
+    .botoes button {
+        margin: 0 2px;
+    }
+
+    #contact {
+        padding: 130px 100px 30px 50px;
+    }
+}
+
 @media screen and (min-width: 768px) {
     h2 {
         font-size: 40px;
