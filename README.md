@@ -1,0 +1,2 @@
+## cine_max
+Landing page criada apenas para fins educacionais. Todo o conteúdo, incluindo textos e imagens, é fictício e foi utilizado sob licença livre. Nenhuma associação com produtos ou marcas reais é pretendida.
